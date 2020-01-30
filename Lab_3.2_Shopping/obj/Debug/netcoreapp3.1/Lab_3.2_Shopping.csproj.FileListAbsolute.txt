@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\bin\Debug\netcoreapp3.1\Lab_3.2_Shopping.exe
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\bin\Debug\netcoreapp3.1\Lab_3.2_Shopping.deps.json
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\bin\Debug\netcoreapp3.1\Lab_3.2_Shopping.runtimeconfig.json
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\bin\Debug\netcoreapp3.1\Lab_3.2_Shopping.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\bin\Debug\netcoreapp3.1\Lab_3.2_Shopping.dll
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\bin\Debug\netcoreapp3.1\Lab_3.2_Shopping.pdb
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\obj\Debug\netcoreapp3.1\Lab_3.2_Shopping.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\obj\Debug\netcoreapp3.1\Lab_3.2_Shopping.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\obj\Debug\netcoreapp3.1\Lab_3.2_Shopping.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\obj\Debug\netcoreapp3.1\Lab_3.2_Shopping.dll
+C:\Users\oomishope\source\repos\Lab_3.2_Shopping\Lab_3.2_Shopping\obj\Debug\netcoreapp3.1\Lab_3.2_Shopping.pdb
